@@ -1,4 +1,4 @@
-# Gamedesigh-Mechamusume-
+# Gamedesigh-Mechamusume（机娘游戏设定）
 gamedesigh of mechamusume.
 
 ## 游戏架构（unity/godot）
