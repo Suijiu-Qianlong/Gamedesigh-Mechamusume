@@ -100,6 +100,5 @@ gamedesigh of mechamusume.
 - 目标定义：AGI终点•机械造人（感性&&理性双通道具象AGI）。感性通道走CRSM-PARS人格稳定c端附加内容（角色时装等）付费，理性通道走transformer工作效率b端token（云端服务费）付费。主从身份定义：机控师&&机娘。
 
 ## License
-
 MIT
-中文著作权条款
+- 注：The copyright of the Chinese text does not fall within the scope of the "Software".中文文本的著作权不属于the "Software"的范围。Commercial use of the Chinese copyright requires written authorization from the copyright holder.中文著作权的商业使用需获得版权人的书面授权。
